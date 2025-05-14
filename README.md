@@ -1,6 +1,6 @@
-# Entrevista Técnica - Resumos
+# Resumos
 
-Este repositório contém os meus resumos e apontamentos para revisão técnica antes de entrevistas.
+
 
 ## Tópicos
 
