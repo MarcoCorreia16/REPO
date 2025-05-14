@@ -25,4 +25,4 @@ Interage diretamente com o utilizador e fornece serviços como e-mail, navegaç�
 
 ---
 
-> 📌 Dica para memorizar: "**Por Favor Não Trates Sem Perguntar Ao António**"
+> 📌 Dica para memorizar: "**Por Favor Não Trates Sem Perguntar Ao Admin**"
