@@ -3,7 +3,7 @@
 O modelo OSI (Open Systems Interconnection) é uma estrutura de 7 camadas que ajuda a compreender como os dados circulam numa rede. Cada camada tem uma função específica.
 
 ## 1. Camada Física
-Responsável pela transmissão de bits brutos através de meios físicos (cabos, sinais elétricos, fibra ótica, etc.).
+Responsável pela transmissão de bits através de meios físicos (cabos, sinais elétricos, fibra ótica, etc.).
 
 ## 2. Camada de Enlace de Dados (Data Link)
 Garante a entrega correta dos dados entre dispositivos diretamente ligados, corrige erros e utiliza endereços MAC.
@@ -25,4 +25,4 @@ Interage diretamente com o utilizador e fornece serviços como e-mail, navegaç�
 
 ---
 
-> 📌 Dica para memorizar: "**Por Favor Não Trates Sem Perguntar Ao António**"
+> 📌 Dica para memorizar: "**Por Favor Não Trates Sem Perguntar Ao Admin**"
